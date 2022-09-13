@@ -1570,3 +1570,13 @@ li.curved-arrow::after {
   height: 12px;
   transform: rotate(45deg);
 }
+
+.icon {
+  width: 35px;
+  height: 35px;
+}
+
+.bex {
+  margin-top: 5px;
+  margin-left: 20px;
+}
